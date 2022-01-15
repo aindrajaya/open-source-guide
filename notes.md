@@ -19,6 +19,12 @@ Some of the most popular sofware projects out ther eare Open-Source. You've prob
 Big words, I know.
 And I wouldn't blame you for thinking, "Yes, Saving the world is great. Now, how can I personally benefit from open-source?". Keep reading. More on that in a little bit.
 # What is Git?
+-- Git is a version control system. It helps developers keep track of the stat of a codebase, thus making it convenient to collaborate.
+In the same way that most programs allow you to save a file with the current state of whatever you are working on, Git allows you to take a snapshot of your current code and save that.
+Every time you want to save new changes to a codebase, you make a 'commit', and Git will keep track of the full history of changes and store that in a hidden folder in your project. This allows you to "go back in time" and revisit changes that were done earlier.
+Multiple developers can create their own 'branches' of this history and join these 'branches' back together in a 'merge', so changes from both branches end up being included in the same codebase.
+[GAMBAR - ]
+This concept is what makes Git such a great collaboration tool.
 # What is GitHub?
 # Other Platforms
 
