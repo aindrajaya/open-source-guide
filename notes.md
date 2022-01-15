@@ -40,6 +40,11 @@ Each user on GitHub carries their own 'resume' showing your past contributions t
 ====
 2. How can you benefit from Open-Source
 # Become a better developer
+-- Maybe you are still entry-leve. Or maybe you are an experienced developer. No amtter the level, the world of tech is a place where you can (and should) strive to learn something new.
+Open-source allows you to build up skills and become a better developer. If you are an entry-level or newly graduated junior, you may find yourself stuck in the famous "cannot get hired because I don' have experience" deadlock. Open-source doesn't require you to be hired, nor does it require you to have a degree or a resume. 
+It's obvious opportunituy to grab some initial experience that you can show the recruiter for your next interview.
+If you are an experienced developer, you may have gotten stuck in the ways at your current day job. You probably became really good at something very specific. Thus, your manager keeps placing the same old tasks on your table. Open-Source is the perfect place to pick up new skills that your current job doesn't allow.
+Do you want to become better at Machine Learning? At blockchain? DEsign, UX, Organizing? there is always something to do in the world of Open-source. Don't wait around. Go and explore- and pick up a task that will make you become a better developer.
 # Become a Great Collaborator
 # Improve the Software you use
 # Grow your Reputation
