@@ -35,7 +35,8 @@ A 'Pull Request' - or 'PR' - is a part of the tooling that GitHub provides. It e
 GitHub allows projects to be discovered easily, attracting other experts in the field, publicly discussing project revisions, thus allowing Open-Source projects to grow massively!
 Each user on GitHub carries their own 'resume' showing your past contributions to other Open-Source projects. Building up a great GitHub 'resume' over time can become an extremely valuable asset for you as a software developer. Becoming an active contributor to Open-Source has never been easier or more convenient. When you are done reading this book, you should be fully equipped to make your first contribution on GitHub.
 # Other Platforms
-
+-- In this book, I will be focusing primarily on GitHub. However, there are other platforms that host code using Git, such as GitLab and BitBucket, and other online services that you can use to host code, such as Codepen and CodeSandbox, just ot name a few others.
+--
 ====
 2. How can you benefit from Open-Source
 # Become a better developer
