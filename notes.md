@@ -55,6 +55,15 @@ By the hear of any great Open-Source projects lies the collaborators' ability to
 -- It's likely that you have installed a third-party library in the doftware you are building to later find out that there is a bug or gthat the functionality is too limiterd to your needs. The obvious community-minded approach here is to dig into the library and see if yo can patch it yourself. Dig in the source code, try to fix the bug or enhance the functionality. In this way, you can continue using the ibrary that you already shose for your project. And obviously- make a PR to the official library with your change! Not only will your own software get better, but you are also helping everyone else in the community.
 --
 # Grow your Reputation
+-- When contribute to Open-source, you often end up meeting like-mined people with similar interests. Great collaboration forms bonds, and contributing to Open-source is something that most anyone in the community respects and acknowledges.
+By definition, your contribution will be publicly available. They will also appear on your GitHub profile, and it will show that you are an active contributor to the Open-source community.
+It's a great way to build up a strong reputation as a developer and build up a strong network of people that share your enthusiasm for software development. A network that can carry great opportunities and benefit you both on a professional level and in your private life.
+[GAMBAR]
+Above is an example of how GitHub shows your activity as an
+Open-Source contributor. This GitHub profile belongs to Kent C. Dodds,
+an author and Open-Source contributor behind a series of successful
+projects.
+--
 # Attract Recruiters
 
 ====
