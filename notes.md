@@ -65,6 +65,10 @@ an author and Open-Source contributor behind a series of successful
 projects.
 --
 # Attract Recruiters
+-- Since your contributors are publically available, it's a great way to demonstrate your work to recruiters and potential employers. Obviously, they will get to see how you code. In my own career, I have bypassed the compulsory coding test and techincal interview multiple times for the simple reason that the recruiters already had a change to see exactly how I solve problems.
+Additionally, they also knwo that a good Open-Source contributor is an outstanding collaborator, and they see that the art of software engineering is more to you that just a job you get paid to do. It's a passion!
+Having a GitHub profile with Open-source projects, public reporitories and contributors is easily one of the strongest career assets you can carry. It is by far one of the best investments you can do, in order to kickstart your career and obtain high goals as a software engineer.
+--
 
 ====
 3. How to Contribute to Open-Source Projects
