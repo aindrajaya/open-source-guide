@@ -50,7 +50,10 @@ Do you want to become better at Machine Learning? At blockchain? DEsign, UX, Org
 -- As a successful software engineer, you need to have great people skills. Your ability to work on a team and collaborate with other developers define your profile. Great collaboration skills outweight great techincal skills by far!. And believe me- recruiters and managers know this!.
 If you are the person who can show and document great collaboration skills, you will be beating the math geniues and algorithm expert without good people skills any day of the week. Open-sources is a phenomical place to acquire great collaboration skills.
 By the hear of any great Open-Source projects lies the collaborators' ability to communicate, resolve conflicts, discuss and exchange ideas, prioritize and delegate work and align approaches to push in the same direction. Not only will these skills make you stand out as an extraordinary software engineer, but they will also help open doors for future roles in management and leadership.
+--
 # Improve the Software you use
+-- It's likely that you have installed a third-party library in the doftware you are building to later find out that there is a bug or gthat the functionality is too limiterd to your needs. The obvious community-minded approach here is to dig into the library and see if yo can patch it yourself. Dig in the source code, try to fix the bug or enhance the functionality. In this way, you can continue using the ibrary that you already shose for your project. And obviously- make a PR to the official library with your change! Not only will your own software get better, but you are also helping everyone else in the community.
+--
 # Grow your Reputation
 # Attract Recruiters
 
