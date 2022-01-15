@@ -45,7 +45,11 @@ Open-source allows you to build up skills and become a better developer. If you 
 It's obvious opportunituy to grab some initial experience that you can show the recruiter for your next interview.
 If you are an experienced developer, you may have gotten stuck in the ways at your current day job. You probably became really good at something very specific. Thus, your manager keeps placing the same old tasks on your table. Open-Source is the perfect place to pick up new skills that your current job doesn't allow.
 Do you want to become better at Machine Learning? At blockchain? DEsign, UX, Organizing? there is always something to do in the world of Open-source. Don't wait around. Go and explore- and pick up a task that will make you become a better developer.
+--
 # Become a Great Collaborator
+-- As a successful software engineer, you need to have great people skills. Your ability to work on a team and collaborate with other developers define your profile. Great collaboration skills outweight great techincal skills by far!. And believe me- recruiters and managers know this!.
+If you are the person who can show and document great collaboration skills, you will be beating the math geniues and algorithm expert without good people skills any day of the week. Open-sources is a phenomical place to acquire great collaboration skills.
+By the hear of any great Open-Source projects lies the collaborators' ability to communicate, resolve conflicts, discuss and exchange ideas, prioritize and delegate work and align approaches to push in the same direction. Not only will these skills make you stand out as an extraordinary software engineer, but they will also help open doors for future roles in management and leadership.
 # Improve the Software you use
 # Grow your Reputation
 # Attract Recruiters
