@@ -72,7 +72,10 @@ Having a GitHub profile with Open-source projects, public reporitories and contr
 
 ====
 3. How to Contribute to Open-Source Projects
-# Finding good projects
+Contributing to open-source for the first time can seem very intimidating and scary. You mayh have doubts such as: "wull my PR get approved?" or "what if I commit ot something I don't know how to solve?"
+This is very natural in the beginning! But don't worry- after reading this chapter, you will be fully equipped ot go an make your very first open-source contribution. If you are already experienced with contributing to open-source, you mayh notice that you have fallen victim to some bad habits that prevent you from getting the most out of your contributions. Trust me! Most people sayh that when they pull those barriers down and make their first open-srouce contributions, it is so satisfying. 
+--
+# Finding good projects 
 # Preparation
 # Contributing
 # What's Next
