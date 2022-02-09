@@ -72,7 +72,46 @@ Having a GitHub profile with Open-source projects, public reporitories and contr
 
 ====
 3. How to Contribute to Open-Source Projects
-# Finding good projects
+Contributing to open-source for the first time can seem very intimidating and scary. You mayh have doubts such as: "wull my PR get approved?" or "what if I commit ot something I don't know how to solve?"
+This is very natural in the beginning! But don't worry- after reading this chapter, you will be fully equipped ot go an make your very first open-source contribution. If you are already experienced with contributing to open-source, you mayh notice that you have fallen victim to some bad habits that prevent you from getting the most out of your contributions. Trust me! Most people sayh that when they pull those barriers down and make their first open-srouce contributions, it is so satisfying. 
+--
+# Finding good projects 
+The first thing you need to do is find a good project to contribute to. GitHub offers some great ways to explore projects. The easiest way to get started is to use GitHub's search function. It comes with some advanced filtering and querying functionality that we can use to find good projects.
+```example
+language:javascript stars:>100
+```
+In the image above, we see the result when I use the search query:
+`language:javascript stars:>100`
+This will show me JavaScript projects with more than 100 stars. Additionally, I have chosen to sort by "Most stars" here. This search will provide me with 37k+ repositories and 36M issues. Another great way to find interesting projects is by using GitHub's "Trending" page.
+Go to "Explore" and then "Trending"
+[GAMBAR]
+Here you will also be able to choose both a spoken language and a programming language as seen above. Use either one of thse two entry-points to explore good projects. Now, when you are looking around for the next project to contribute to, keep the following in mind. 
+==>A language you know<==
+This should be somewhat obvious. If you want to fix a bug or introduce a new feature, it's good idea to choose a project that is absed on a language that you know and are familiar with. It's also good ide to stick to a spoken language that you know, so you can engage in discussion with the maintainers and other contributors.
+==>It's likely that your PR will be reviewed<==
+You want to look for a project that accepts new contributors and is likely to review PRs. We want to make sure that the project fulfills at leas the following criteria:
+<<>> The latest commit was made recently
+<<>> There are open issues and PRs
+<<>> It has contributors (besides the maintainer)
+Now, as an example, let's try to take alook at GatsbyJS's Github repository. LEt's see if this is a good project to contribute to.
+[GAMBAR]
+At the time of writing this book, the latest commit was made the prior day. So the first criteria is definitely met. There are also currently 470 issues and 186 PRs open. The second criteria is definitely met as well.
+Lastly, we can see that this proejct has 3589 contributors. The third criteria is most definitely met as well. So by all judgements, this will be a great open-source project to make a contribution to.
+>>It has a Healthy Collaborator Environment<<
+You also want to find a place that has a healthy tone in the discussions and polite and grateful maintainers. Visit the currently open issues and PRs. Do discussions seemly healthy, and are maintainers polite and friendly? If you fele that the maintainers are hostile and disrespectful or that collaborators and other contributors get away being hostile, then churn away.
+It's likely that it's going to be an uncomfortable experience, and if you are new to open-source, this is certainly not a standard that you want to get used to.
+Here are some things to look for:
+>> Do maintainers answer questions in a welcoming manner?
+>> Do maintainers dispay appreciation for the contributions?
+>> DO maintainers intervene if the tone getting hars, or partakers in a discussion become hostile or aggressive?
+>><It has "good first issues" issues<
+A really good sign tha the maintainers have put time into making the project contributor-friendly is when they have issues withn the label "good first issue"
+The label "good first issue" is an issue that doesn't require previous experience or knowledge about the project. It is meant to be a godd way to get started as a contributor.
+Let's head over to Gatsby's Github repository again. Let's go to "issues", then press the Label dropdown and click on the label "good first issues"
+[GAMBAR]
+As we see here, there a lot of issues with this label. Hence, as a beginner, there are lot of great issues here that you can pick up and begin woring on right away.
+In fact, this label is so common on GitHub that you can incorporate it into a search query. Let's extend our query from before to include at least two of these "good first issues" issues:
+`language:javascript stars:>100 good-first-issues:>=2`
 # Preparation
 # Contributing
 # What's Next
